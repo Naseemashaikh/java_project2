@@ -1,5 +1,5 @@
 # Air Line Management System
-Airline Management System Project Summary (Java Swing)
+Airline Management System Project(Java Swing)
 
 The Airline Management System is a desktop-based application developed using Java Swing to provide a user-friendly interface for managing airline booking operations. The main objective of this project is to automate the flight reservation process and make it easier for users to search, book flights, and obtain boarding passes efficiently.
 
