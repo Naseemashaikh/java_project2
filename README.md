@@ -1,2 +1,2 @@
-# java_project2
-Java AirlineManagementSystem
+# Air Line Management System
+Basic Project on AirLineManagementSystem
